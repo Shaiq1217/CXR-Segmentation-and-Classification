@@ -19,6 +19,7 @@ We have also included the loss and accuracy graphs plotted against the epochs.
 ![Graphs](/Metrics/seg_accuracy_epoch.png "accuracy vs epochs")
 
 The loss vs epoch graph is also shown
+
 ![loss grapg](/Metrics/seg_loss_epoch.png "loss vs epoch")
 
 ## Classificaiton using CNNs
@@ -28,6 +29,7 @@ We use a very simple structure of 2 convolution layer and a max pooling followed
 We tried to tweak the hyperparameters for better classification accuracy but to no avail.
 
 The confusion matrix for the validation images using the model is shown:
+
 ![confusion matrix](/Mertrics/confusion_matrix.png "Confusion Matrix")
 ## Future work
 
