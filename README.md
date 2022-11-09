@@ -9,7 +9,7 @@ This project uses a U-net model to segment the images which has an encoder and d
 
 ## Results
 The results for the segmentation of one image are shown below. We predicted with an accuracy of 94%.
-
+![segmentaiton_result]('/Metrics/segmentation_result.png')
 We have also included the loss and accuracy graphs plotted against the epochs.
 
 ## Classificaiton using CNNs
