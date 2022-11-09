@@ -30,7 +30,7 @@ We tried to tweak the hyperparameters for better classification accuracy but to 
 
 The confusion matrix for the validation images using the model is shown:
 
-![confusion matrix](/Mertrics/confusion_matrix.png "Confusion Matrix")
+![confusion matrix](/Metrics/confusion_matrix.png "Confusion Matrix")
 ## Future work
 
 1. The classificaiton accuracy is not great. To overcome this we would like to augment the data. 
